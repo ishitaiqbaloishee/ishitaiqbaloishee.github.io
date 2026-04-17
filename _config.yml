@@ -4,7 +4,7 @@ site_theme               : "Academic Portfolio"
 title_separator          : "-"
 name                     : &name ishita iqbal oishee
 description              : &description "Academic portfolio of Shahrukh Mithun"
-url                      : https://YOUR-USERNAME.github.io  
+url                      : https://ishitaiqbaloishee.github.io  
 baseurl                  : ""
 repository               : "YOUR-USERNAME/YOUR-REPO-NAME"
 
